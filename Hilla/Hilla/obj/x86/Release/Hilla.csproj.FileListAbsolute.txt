@@ -1,0 +1,5 @@
+D:\Projects\Hilla\Hilla\bin\Release\Hilla.exe
+D:\Projects\Hilla\Hilla\bin\Release\Hilla.pdb
+D:\Projects\Hilla\Hilla\obj\x86\Release\Hilla.exe
+D:\Projects\Hilla\Hilla\obj\x86\Release\Hilla.pdb
+D:\Projects\Hilla\Hilla\obj\x86\Release\Hilla.csprojResolveAssemblyReference.cache

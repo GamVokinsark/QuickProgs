@@ -1,0 +1,9 @@
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\bin\Release\Biometric Pin-Code.exe
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\bin\Release\Biometric Pin-Code.pdb
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\Biometric_Pin_Code.Form1.resources
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\Biometric_Pin_Code.Properties.Resources.resources
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\Biometric Pin-Code.exe
+D:\Projects\Biometric Pin-Code\Biometric Pin-Code\obj\x86\Release\Biometric Pin-Code.pdb

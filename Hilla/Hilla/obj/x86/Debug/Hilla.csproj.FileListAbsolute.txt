@@ -1,0 +1,4 @@
+D:\Projects\Hilla\Hilla\bin\Debug\Hilla.exe
+D:\Projects\Hilla\Hilla\bin\Debug\Hilla.pdb
+D:\Projects\Hilla\Hilla\obj\x86\Debug\Hilla.exe
+D:\Projects\Hilla\Hilla\obj\x86\Debug\Hilla.pdb

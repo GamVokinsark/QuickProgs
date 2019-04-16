@@ -1,0 +1,9 @@
+D:\Projects\Symbols\Symbols\bin\Debug\Symbols.exe
+D:\Projects\Symbols\Symbols\bin\Debug\Symbols.pdb
+D:\Projects\Symbols\Symbols\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Symbols\Symbols\obj\x86\Debug\Symbols.Form1.resources
+D:\Projects\Symbols\Symbols\obj\x86\Debug\Symbols.Properties.Resources.resources
+D:\Projects\Symbols\Symbols\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Symbols\Symbols\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Symbols\Symbols\obj\x86\Debug\Symbols.exe
+D:\Projects\Symbols\Symbols\obj\x86\Debug\Symbols.pdb

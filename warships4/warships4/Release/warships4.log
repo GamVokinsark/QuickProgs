@@ -1,0 +1,17 @@
+﻿Построение начато 02.08.2017 13:20:30.
+     1>Проект "D:\Projects\warships4\warships4\warships4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\warships5final_version.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         warships4.vcxproj -> D:\Projects\warships4\Release\warships5final_version.exe
+       FinalizeBuildStatus:
+         Файл "Release\warships5final_version.unsuccessfulbuild" удаляется.
+         Обращение к "Release\warships5final_version.lastbuildstate".
+     1>Построение проекта "D:\Projects\warships4\warships4\warships4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.38
